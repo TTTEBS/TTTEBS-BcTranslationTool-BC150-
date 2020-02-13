@@ -1,0 +1,11 @@
+{
+    "al.codeAnalyzers":  [
+                             "${AppSourceCop}",
+                             "${CodeCop}",
+                             "${PerTenantExtensionCop}",
+                             "${UICop}"
+                         ],
+    "al.enableCodeAnalysis":  true,
+    "al.packageCachePath":  "./.alpackages",
+    "al.ruleSetPath": "./.vscode/TTT-PR BCT.ruleset.json"
+}

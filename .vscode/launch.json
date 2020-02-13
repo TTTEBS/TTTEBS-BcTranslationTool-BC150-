@@ -1,0 +1,55 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "al",
+            "request": "launch",
+            "name": "bcsandbox - docker",
+            "server": "http://bcsandbox",
+            "serverInstance": "BC",
+            "authentication": "Windows",
+            "startupObjectId": 80115,
+            "startupObjectType": "Page",
+            "breakOnError": true,
+            "launchBrowser": true,
+            "enableLongRunningSqlStatements": true,
+            "enableSqlInformationDebugger": true,
+            "longRunningSqlStatementsThreshold": 500,
+            "numberOfSqlStatements": 10
+        },
+        {
+            "type": "al",
+            "request": "launch",
+            "name": "Local-bc150",
+            "server": "http://localhost:15049",
+            "serverInstance": "bc150",
+            "authentication": "Windows",
+            "startupObjectId": 80115,
+            "startupObjectType": "Page",
+            "breakOnError": true,
+            "launchBrowser": true,
+            "enableLongRunningSqlStatements": true,
+            "enableSqlInformationDebugger": true,
+            "longRunningSqlStatementsThreshold": 500,
+            "numberOfSqlStatements": 10,
+            "schemaUpdateMode": "Recreate"  // TTTEBS -> Slet data - kun udv!
+        },
+        {
+            "name": "Manis-h Sandbox EBS",
+            "sandboxName": "SandboxEBS",
+            "tenant": "584d5d6b-1171-4532-bc17-3880964f3be4",
+            "schemaUpdateMode": "Synchronize",
+            "type": "al",
+            "request": "launch",
+            "startupObjectId": 80115,
+            "startupObjectType": "Page",
+            "breakOnError": true,
+            "breakOnRecordWrite": false,
+            "launchBrowser": true,
+            "enableSqlInformationDebugger": true,
+            "enableLongRunningSqlStatements": true,
+            "longRunningSqlStatementsThreshold": 500,
+            "numberOfSqlStatements": 10
+        }
+    ]
+}

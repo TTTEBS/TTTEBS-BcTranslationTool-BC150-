@@ -1,0 +1,614 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="TTTPR BcTranslation 15">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 3517218133 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Translation File</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTT-PR BCTTranslationFile - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3517218133 - Field 1016130111 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTT-PR BCTTranslationFile - Field EntryNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3517218133 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTT-PR BCTTranslationFile - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3517218133 - Field 2166181827 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Content</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTT-PR BCTTranslationFile - Field Content - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3517218133 - Field 3528871225 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Source Language</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTT-PR BCTTranslationFile - Field SourceLanguage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3517218133 - Field 2081108517 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Target Language</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTT-PR BCTTranslationFile - Field TargetLanguage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3517218133 - Field 880136295 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. of Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTT-PR BCTTranslationFile - Field NoOfLines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 522215479 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Translation File Line</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTT-PR BCTTranslationFileLine - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 522215479 - Field 1884209775 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>File Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTT-PR BCTTranslationFileLine - Field TranslFileEntryNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 522215479 - Field 1165969121 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTT-PR BCTTranslationFileLine - Field LineNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 522215479 - Field 415504711 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTT-PR BCTTranslationFileLine - Field Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 522215479 - Field 2034448606 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Target File Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTT-PR BCTTranslationFileLine - Field TargetFileEntryNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 522215479 - Field 2397723431 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Source</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTT-PR BCTTranslationFileLine - Field Source - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 522215479 - Field 1125457875 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Target</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTT-PR BCTTranslationFileLine - Field Target - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 522215479 - Field 2103044874 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Translate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTT-PR BCTTranslationFileLine - Field Translate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 522215479 - Field 3729418774 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Max Width</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTT-PR BCTTranslationFileLine - Field MaxWidth - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 522215479 - Field 1889869557 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Size Unit</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTT-PR BCTTranslationFileLine - Field SizeUnit - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 522215479 - Field 2981030309 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Generator</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTT-PR BCTTranslationFileLine - Field Generator - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 522215479 - Field 917700362 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Developer</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTT-PR BCTTranslationFileLine - Field Developer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 522215479 - Field 494089240 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Suggestion</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTT-PR BCTTranslationFileLine - Field Suggestion - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 522215479 - NamedType 2818762530" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 (%3) for %2 exceeded!\"%4" = %5</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTT-PR BCTTranslationFileLine - NamedType lblMaxWidthExceededErr</note>
+        </trans-unit>
+        <trans-unit id="Table 2360954436 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Translation Project</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTT-PR BCTTranslationProject - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2360954436 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTT-PR BCTTranslationProject - Field Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2360954436 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTT-PR BCTTranslationProject - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2360954436 - Field 2198180543 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. of Files</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTT-PR BCTTranslationProject - Field NoOfFiles - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 228678269 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Translation Project File</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTT-PR BCTTranslProjectFile - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 228678269 - Field 3226230834 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Project Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTT-PR BCTTranslProjectFile - Field TranslProjectCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 228678269 - Field 3375923604 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Project Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTT-PR BCTTranslProjectFile - Field TranslProjectDescr - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 228678269 - Field 1884209775 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>File Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTT-PR BCTTranslProjectFile - Field TranslFileEntryNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 228678269 - Field 437394714 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>File Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTT-PR BCTTranslProjectFile - Field TranslFileDescription - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 228678269 - Field 66833259 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>File Source Language</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTT-PR BCTTranslProjectFile - Field TranslFileSourceLang - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 228678269 - Field 1395160175 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>File Target Language</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TTT-PR BCTTranslProjectFile - Field TranslFileTargetLang - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 817337557 - NamedType 3990783959" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Do you want to overwrite the existing content?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TTT-PR BCTTranslManagement - NamedType lblOverwriteExistingContentQst</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 817337557 - NamedType 1859934030" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Target and suggest file have different target languages.\(%1 vs. %2)\Do you want to continue?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TTT-PR BCTTranslManagement - NamedType lblTargetLangNeSuggestLangQst</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 817337557 - NamedType 3207003144" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Select a file to upload</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TTT-PR BCTTranslManagement - NamedType lblSelectFileToUploadTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 817337557 - NamedType 3254151581" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Select a file to download</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TTT-PR BCTTranslManagement - NamedType lblSelectFileToDownloadTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 817337557 - NamedType 3462617038" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Xliff Files (*.xlf)|*.xlf</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TTT-PR BCTTranslManagement - NamedType lblXliffFilesTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 817337557 - NamedType 898083605" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unable to convert file to xml buffer lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TTT-PR BCTTranslManagement - NamedType lblUnableToConvertFileToXmlBufferLinesErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 817337557 - NamedType 140086098" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This function is restricted to work only on the Translate window using temporary records</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TTT-PR BCTTranslManagement - NamedType lblOnlyWorksOnTemporaryLinesErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 817337557 - NamedType 572977031" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unable to find "%1" in %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TTT-PR BCTTranslManagement - NamedType lblUnableToFindTargetLanguageInXmlBufferErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 817337557 - NamedType 1169883654" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 Suggestions found</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TTT-PR BCTTranslManagement - NamedType lblSuggestionsFoundMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 817337557 - Method 434797887 - NamedType 3902832620" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unable to convert xml buffer lines to blob field</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TTT-PR BCTTranslManagement - Method SaveXmlBufferToFile - NamedType lblUnableToCovertXmlBufferLinesToBlobErr</note>
+        </trans-unit>
+        <trans-unit id="Page 348208322 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Translation File Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTT-PR BCTTranslationFileLines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 348208322 - Control 2291431869 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>File Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTT-PR BCTTranslationFileLines - Control TranslationFileLineRepeater - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 348208322 - Control 1884209775 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is the Translation File Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTT-PR BCTTranslationFileLines - Control TranslFileEntryNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 348208322 - Control 1165969121 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is a line no. that identifies this particular line within the file.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTT-PR BCTTranslationFileLines - Control LineNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 348208322 - Control 2397723431 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is the source text that must be translated.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTT-PR BCTTranslationFileLines - Control Source - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 348208322 - Control 1125457875 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is the resulted translation.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTT-PR BCTTranslationFileLines - Control Target - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 348208322 - Control 494089240 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This field is marked if the translation originates from a suggestion. The suggestion must be accepted in order to be saved to the database.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTT-PR BCTTranslationFileLines - Control Suggestion - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 348208322 - Control 2103044874 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This indicates that the source can be translated.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTT-PR BCTTranslationFileLines - Control Translate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 348208322 - Control 3729418774 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The width of translation can be limited to this Max. Width.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTT-PR BCTTranslationFileLines - Control MaxWidth - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 348208322 - Control 1889869557 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is the unit specification of the Max Width attribute. Default is "char". Can be byte, cm, em, mm, pixel a.s.o.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTT-PR BCTTranslationFileLines - Control SizeUnit - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 348208322 - Control 2981030309 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This shows where in the application the translation is used.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTT-PR BCTTranslationFileLines - Control Generator - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 348208322 - Control 917700362 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is a comment from the developer.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTT-PR BCTTranslationFileLines - Control Developer - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 348208322 - Control 415504711 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is the ID that was assigned to the original text when generating the file from VSC.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTT-PR BCTTranslationFileLines - Control Id - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 348208322 - Action 3862155450 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sort Target/Source</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTT-PR BCTTranslationFileLines - Action SortTargetSource - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 348208322 - Action 3862155450 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sort Target/Source (Let us change this to a VIEW, right?).</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTT-PR BCTTranslationFileLines - Action SortTargetSource - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 348208322 - Action 1168295337 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Accept suggestions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTT-PR BCTTranslationFileLines - Action AcceptSuggestions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 348208322 - Action 1168295337 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Accept all suggestions.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTT-PR BCTTranslationFileLines - Action AcceptSuggestions - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 348208322 - Action 2931819820 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Suggest from file</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTT-PR BCTTranslationFileLines - Action SuggestAllLinesFromFile - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 348208322 - Action 2931819820 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Select a file to use for suggestions.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTT-PR BCTTranslationFileLines - Action SuggestAllLinesFromFile - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 348208322 - Action 2085537502 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Suggest from multiple files</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTT-PR BCTTranslationFileLines - Action SelectFileForSuggestions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 348208322 - Action 2085537502 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Select file(s) to create suggestions for all lines.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTT-PR BCTTranslationFileLines - Action SelectFileForSuggestions - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3630495276 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Translation Files</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTT-PR BCTTranslationFiles - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3630495276 - Property 2019332006" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New,Process,Report,Navigate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTT-PR BCTTranslationFiles - Property PromotedActionCategories</note>
+        </trans-unit>
+        <trans-unit id="Page 3630495276 - Control 334585583 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Translation Files</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTT-PR BCTTranslationFiles - Control TranslationFileRepeater - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3630495276 - Control 1016130111 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The Entry No. uniquely identifies the file.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTT-PR BCTTranslationFiles - Control EntryNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3630495276 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You can enter your own description for each file.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTT-PR BCTTranslationFiles - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3630495276 - Control 3528871225 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Source Language usually is "en-US".</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTT-PR BCTTranslationFiles - Control SourceLanguage - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3630495276 - Control 2081108517 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You can manually change the Target Language to suit your needs. Target Language must be different from Source Language if you want to translate the content.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTT-PR BCTTranslationFiles - Control TargetLanguage - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3630495276 - Control 3837936093 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Has Content</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTT-PR BCTTranslationFiles - Control HasContent - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3630495276 - Control 3837936093 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This shows if a file has been imported.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTT-PR BCTTranslationFiles - Control HasContent - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3630495276 - Control 880136295 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This will show the no. of lines after decoding the imported file. The lines are the ones you actually translate.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTT-PR BCTTranslationFiles - Control NoOfLines - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3630495276 - Action 2117948331 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import new</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTT-PR BCTTranslationFiles - Action ImportNew - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3630495276 - Action 2117948331 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import a new xliff file and create a Translation File record.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTT-PR BCTTranslationFiles - Action ImportNew - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3630495276 - Action 2077398003 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Decode file</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTT-PR BCTTranslationFiles - Action DecodeTranslationFile - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3630495276 - Action 2077398003 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create lines from this file.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTT-PR BCTTranslationFiles - Action DecodeTranslationFile - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3630495276 - Action 3201496503 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTT-PR BCTTranslationFiles - Action Import - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3630495276 - Action 3201496503 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import xliff file to this record.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTT-PR BCTTranslationFiles - Action Import - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3630495276 - Action 3471137671 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTT-PR BCTTranslationFiles - Action Lines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3630495276 - Action 3471137671 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show lines from this file.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTT-PR BCTTranslationFiles - Action Lines - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3630495276 - Action 3588497038 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Xml Buffer</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTT-PR BCTTranslationFiles - Action ShowXmlBuffer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3630495276 - Action 3588497038 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Xml buffer lines from this file.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTT-PR BCTTranslationFiles - Action ShowXmlBuffer - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3630495276 - Action 2592864468 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Project Translation Files</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTT-PR BCTTranslationFiles - Action ProjectFiles - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3630495276 - Action 2592864468 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show project files connected to this file.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTT-PR BCTTranslationFiles - Action ProjectFiles - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2813513765 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Translation Projects</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTT-PR BCTTranslationProjects - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2813513765 - Property 3863440606" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TTT, TTT-PR, TTTPR</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTT-PR BCTTranslationProjects - Property AdditionalSearchTerms</note>
+        </trans-unit>
+        <trans-unit id="Page 2813513765 - Control 504961874 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Projects</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTT-PR BCTTranslationProjects - Control TranslationProjectRepeater - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2813513765 - Control 3004954119 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is the code that uniquely identifies the project.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTT-PR BCTTranslationProjects - Control Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2813513765 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This describes the translation project.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTT-PR BCTTranslationProjects - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2813513765 - Control 2198180543 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows the no. of files attached to the project.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTT-PR BCTTranslationProjects - Control NoOfFiles - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2813513765 - Action 2592864468 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Project Translation Files</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTT-PR BCTTranslationProjects - Action ProjectFiles - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2813513765 - Action 2592864468 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show translation files connected to this project</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTT-PR BCTTranslationProjects - Action ProjectFiles - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2813513765 - Action 1624583274 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>All Translation Files</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTT-PR BCTTranslationProjects - Action TranslationFiles - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2813513765 - Action 1624583274 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show all translation files</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTT-PR BCTTranslationProjects - Action TranslationFiles - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 506601812 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Translation Project Files</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTT-PR BCTTranslProjectFiles - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 506601812 - Control 2729321613 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Project Files</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTT-PR BCTTranslProjectFiles - Control ProjectFileRepeater - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 506601812 - Control 3226230834 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Translation Project Code identifies connection to the project.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTT-PR BCTTranslProjectFiles - Control TranslProjectCode - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 506601812 - Control 3375923604 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Translation Project Description comes from the project record.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTT-PR BCTTranslProjectFiles - Control TranslProjectDescr - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 506601812 - Control 1884209775 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Translation File Entry No. is the unique reference to a translation file.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTT-PR BCTTranslProjectFiles - Control TranslFileEntryNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 506601812 - Control 437394714 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Translation File Description comes from the translation file record.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTT-PR BCTTranslProjectFiles - Control TranslFileDescription - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 506601812 - Control 66833259 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is the source language code of the translation file.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTT-PR BCTTranslProjectFiles - Control TranslFileSourceLang - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 506601812 - Control 1395160175 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is the target language code of the translation file.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTT-PR BCTTranslProjectFiles - Control TranslFileTargetLang - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 506601812 - Action 2103044874 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Translate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTT-PR BCTTranslProjectFiles - Action Translate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 506601812 - Action 2103044874 - Property 2001309823" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Translate.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTT-PR BCTTranslProjectFiles - Action Translate - Property Tooltip</note>
+        </trans-unit>
+        <trans-unit id="Page 506601812 - Action 36190024 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Export</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTT-PR BCTTranslProjectFiles - Action Export - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 506601812 - Action 36190024 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Export.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTT-PR BCTTranslProjectFiles - Action Export - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2647290185 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Xml Buffer</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTT-PR BCTXmlBuffer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2647290185 - Control 3461421451 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Xml Buffer Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTT-PR BCTXmlBuffer - Control XmlBufferRepeater - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2647290185 - Control 883711285 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTT-PR BCTXmlBuffer - Control Entry No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2647290185 - Control 1068272785 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Parent Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTT-PR BCTXmlBuffer - Control Parent Entry No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2647290185 - Control 1838266565 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Node Number</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTT-PR BCTXmlBuffer - Control Node Number - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2647290185 - Control 814761759 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Depth</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTT-PR BCTXmlBuffer - Control Depth - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2647290185 - Control 2961552353 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTT-PR BCTXmlBuffer - Control Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2647290185 - Control 1131619133 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTT-PR BCTXmlBuffer - Control Value - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2647290185 - Control 2145620180 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTT-PR BCTXmlBuffer - Control Data Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2647290185 - Control 1878130204 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTT-PR BCTXmlBuffer - Control Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2647290185 - Control 2206733951 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Path</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTT-PR BCTXmlBuffer - Control Path - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2647290185 - Control 204440125 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Namespace</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTT-PR BCTXmlBuffer - Control Namespace - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2647290185 - Control 1461782092 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value BLOB</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTT-PR BCTXmlBuffer - Control Value BLOB - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2647290185 - Control 751065732 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TTT-PR BCTXmlBuffer - Control Import ID - Property ToolTip</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

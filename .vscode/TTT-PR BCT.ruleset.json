@@ -1,0 +1,16 @@
+{
+    "name": "TTTPR",
+    "description": "TTTPR Rule Exceptions",
+    "rules": [
+        {
+            "id": "AA0210",
+            "action": "None",
+            "justification": "This warning can be ignored. The table XXX does not contain the key with the field YYY. This was caused by setting filter on a flowfield that you cannot include in a key!"
+        },
+        {
+            "id": "AA0214",
+            "action": "Hidden",
+            "justification": "This warning can be ignored. The record XXX should be modified before saving to the database. This was caused by a temporary table that WAS changed before Modify."
+        }
+    ]
+}

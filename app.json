@@ -1,0 +1,45 @@
+{
+  "id": "584a309c-d61c-48ba-998c-0daddd45a44b",
+  "name": "TTTPR BcTranslation 15",
+  "publisher": "Telos Team - Preben Rasmussen",
+  "version": "1.03.0.0",
+  "brief": "http://www.telosteam.dk",
+  "description": "http://www.telosteam.dk",
+  "privacyStatement": "http://www.telosteam.dk",
+  "EULA": "http://www.telosteam.dk",
+  "help": "http://www.telosteam.dk",
+  "contextSensitiveHelpUrl": "http://www.telosteam.dk",
+  "url": "http://www.telosteam.dk",
+  "logo": "./res/Logo.png",
+  "dependencies": [
+    {
+      "appId": "63ca2fa4-4f03-4f2b-a480-172fef340d3f",
+      "publisher": "Microsoft",
+      "name": "System Application",
+      "version": "15.0.0.0"
+    },
+    {
+      "appId": "437dbf0e-84ff-417a-965d-ed2bb9650972",
+      "publisher": "Microsoft",
+      "name": "Base Application",
+      "version": "15.0.0.0"
+    }
+  ],
+  "platform": "15.0.0.0",
+  "screenshots": [],
+  "idRanges": [
+    {
+      "from": 80115,
+      "to": 80129
+    }
+  ],
+  "showMyCode": true,
+  "runtime": "4.0",
+  "target": "Cloud",
+  "features": [
+    "TranslationFile"
+  ],
+  "supportedLocales": [
+    "en-US"
+  ]
+}
